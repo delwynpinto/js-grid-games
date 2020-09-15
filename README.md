@@ -1,4 +1,4 @@
-# Javascript Grod-based Games
+# Javascript Grid-based Games
 
 Practice application created with HTML, CSS and JavaScript with Bootstrap used for the UX & uses multiple concepts of them.
 
